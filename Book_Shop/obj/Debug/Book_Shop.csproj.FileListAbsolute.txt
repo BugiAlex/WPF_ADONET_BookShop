@@ -1,0 +1,113 @@
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csprojAssemblyReference.cache
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\MainWindow.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\App.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop_MarkupCompile.cache
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop_MarkupCompile.lref
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe.config
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\Book_Shop.pdb
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\EntityFramework.dll
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\EntityFramework.SqlServer.dll
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\EntityFramework.xml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\EntityFramework.SqlServer.xml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\RegistrationWinsow.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\MainWindow.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\RegistrationWinsow.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.g.resources
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.GenerateResource.cache
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CoreCompileInputs.cache
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CopyComplete
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.pdb
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ExceptionWindow.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ExceptionWindow.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\AdminWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\AdminWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\BuyerWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\SellerWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\BuyerWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\SellerWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\LanguageWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\LanguageWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\GenreWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\GenreWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\PublishingWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\PublishingWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\AuthorWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\AuthorWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\StockWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\StockWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\SellerListOrderWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\SellerListOrderWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteBookFromDBWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteBookFromDBWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteGenreWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteLanguageWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteGenreWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteLanguageWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeletePublishingWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeletePublishingWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteAuthorWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteAuthorWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteStockWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteStockWin.baml
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteAccountWin.g.cs
+D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteAccountWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe.config
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\Book_Shop.pdb
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\EntityFramework.dll
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\EntityFramework.xml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\AdminWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\AuthorWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\BuyerWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteAccountWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteAuthorWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteBookFromDBWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteGenreWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteLanguageWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeletePublishingWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteStockWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ExceptionWindow.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\GenreWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\LanguageWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\MainWindow.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\PublishingWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\RegistrationWinsow.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\SellerListOrderWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\SellerWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\StockWin.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\App.g.cs
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop_MarkupCompile.cache
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop_MarkupCompile.lref
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\AdminWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\AuthorWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\BuyerWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteAccountWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteAuthorWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteBookFromDBWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteGenreWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteLanguageWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeletePublishingWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ConDeleteStockWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\ExceptionWindow.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\GenreWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\LanguageWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\MainWindow.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\PublishingWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\RegistrationWinsow.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\SellerListOrderWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\SellerWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\StockWin.baml
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.g.resources
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.GenerateResource.cache
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CoreCompileInputs.cache
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CopyComplete
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.pdb
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.AssemblyReference.cache
+D:\Step_Academy\Мои учебные проекты\ADO.NET\ADNT_Exam_Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.SuggestedBindingRedirects.cache

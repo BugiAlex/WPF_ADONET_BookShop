@@ -1,0 +1,6 @@
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в System.Collections.ObjectModel.Collection`1.get_Item(Int32 index)
+   в Book_Shop.MainViewModel.AddBook() в D:\for_programm\ADNT_Exam_Book_Shop\Book_Shop\MainViewModel.cs:строка 439
